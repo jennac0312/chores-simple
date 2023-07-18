@@ -1,59 +1,59 @@
 const child1 = {
-    name: 'child 1',
+    name: 'michael',
     chores: [
         {
             task: 'vacuum',
-            description: '',
+            description: 'this is a description for the chore',
             isComplete: false
         },
         {
             task: 'dishes',
-            description: '',
+            description: 'this is a description for the chore',
             isComplete: false
         },
         {
             task: 'make bed',
-            description: '',
+            description: 'this is a description for the chore',
             isComplete: false
         },
     ]
 }
 const child2 = {
-    name: 'child 2',
+    name: 'brandy',
     chores: [
         {
             task: 'vacuum',
-            description: '',
+            description: 'this is a description for the chore',
             isComplete: false
         },
         {
             task: 'dishes',
-            description: '',
+            description: 'this is a description for the chore',
             isComplete: false
         },
         {
             task: 'make bed',
-            description: '',
+            description: 'this is a description for the chore',
             isComplete: false
         },
     ]
 }
 const child3 = {
-    name: 'child 3',
+    name: 'tiana',
     chores: [
         {
             task: 'vacuum',
-            description: '',
+            description: 'this is a description for the chore',
             isComplete: false
         },
         {
             task: 'dishes',
-            description: '',
+            description: 'this is a description for the chore',
             isComplete: false
         },
         {
             task: 'make bed',
-            description: '',
+            description: 'this is a description for the chore',
             isComplete: false
         },
     ]
